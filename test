@@ -1,5 +1,7 @@
 	add some content to test clone
 	
+	addd for checkout test
+	
 	just cloning any git repository, next time onwards after pulling
 	changes, the gitk is showing
 	at the top "Local uncommitted changes, not checked in to index". Why
